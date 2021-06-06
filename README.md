@@ -1,6 +1,6 @@
-# -Bernard-2623
+# Esx_votesystem-master For Fivem
 ESX_votesystem-master For Fivem
-
+# ^Bernard#2623
 # join our Discord : https://discord.gg/p8eGmWawAH
 # requirement #esx_menu_defult
 
